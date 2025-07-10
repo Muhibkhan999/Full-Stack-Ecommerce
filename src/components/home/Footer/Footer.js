@@ -34,8 +34,9 @@ const Footer = () => {
           <FooterListTitle title=" More about Orebi Shop" />
           <div className="flex flex-col gap-6">
             <p className="text-base w-full xl:w-[80%]">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim sint
-              ab ullam, numquam nesciunt in.
+              This website is proudly built by Muhammad Muhib Khan. It is a
+              React.js based e-commerce website that showcases various products
+              and services.
             </p>
             <ul className="flex items-center gap-2">
               <a
